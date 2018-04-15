@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "20 db";
+    src:  url('./20db.otf') format('otf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: "20 db";
+    background: url('./lightHouse.jpg');
+  }
+  
